@@ -1,0 +1,53 @@
+log: test@hotmail.fr
+password: ipod.touch
+
+John Offer
+
+https://www.upwork.com/jobs/~01736cdea605b15712
+
+****** post *********
+Hi,
+
+I'm looking for a react native developer that has experience with map animation.
+I need a couple of fixes for a map screen which experience some issues.
+As I need someone just for one screen, it's a short term contract.
+I will say more in private about the specific task if you are interested
+
+****** proposal *********
+Hello, Client. I can fix your bugs on time perfectly with my skills in map animation.
+This is a professional React Native/Expo mobile developer who has 5+ years of rich and strong experience.
+I've already read your description and I think that I am very fit to your job now.
+Awesome user interface and nice performance, high-quality coding is my working style.
+As a talented and hard-working developer, I am very aware of React Native/Expo, React Hooks, ECMAScript 6, 7, Redux, HTML5, JavaScript, jQuery, Typescript, back-end API integration, etc.
+I am confident in your requirement skills and my projects and pretty familiar with React Native app architectures such as Redux, Google map, Scanning QR/Bar code, Push notification, chat, and so on.
+I'd like to make a relationship with you so we may find a better way to make your project live brightly.
+Looking forward to discussing more details while doing the interview.
+Thanks.
+Your developer. less
+
+Do you have any questions about the job description?
+There is nothing which I don't know for your project since I am very familiar with Google map and map animations including marker.
+Thanks
+
+What challenging part of this job are you most experienced in?
+In my experience, maps alone can be difficult to deal with, however when adding additional content, and animated interactions they become a more powerful and friendly.
+I am sure I can be a good candidate for your project with my skills and experience.
+thanks.
+****** offer *********
+Hi
+Thank you for your message and motivation concerning project.
+So i said in my descriptive message about the job quired, I need some fixs on map animation.
+I'm going to send you an expo app with all files that contain a screen Cart.
+The screen Cart has currently some features :
+- It shows markers on the map
+- If there are many events at the same place it shows a modal on all event on the same place for the user to choose.
+- On marker click, there is bottom sheet flatlist that appears to the correct position in flatlist.
+- On scroll flatlist there is an anmation on the map that goes to the correct marker. (issue with this one)
+
+So I need some fixes related to :
+- the animated on scroll. You will see that gou got an error x is underfined at start but if you refresh and skip the error it actually work (more or less). It would be nice that the animation on scroll would be performance focused as it use a lot of resources.
+- I'd like also to show different markers based on the "genre" of the events. I tried to make a switch function for each genre but it is very strange but sometimes all markers appear and sometimes markers not appear. However if I only use one marker (the original marker or a custom one), it works just fine...
+- I would also need interporlation for the current marker selected. It means that if the user select an event, the marker should be bigger than others...
+
+Do you think you can help on it ?
+thank you
